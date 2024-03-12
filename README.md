@@ -1,7 +1,7 @@
 # DontCutTripwire
-Make your forge brush machine! #制作你的forge版刷线机吧！
+Make your forge brush machine! #制作你的forge版刷线机吧！\n
 
-Usage method                   #使用方法：
+Usage method\n                   #使用方法：
 1.To add this module to the corresponding minecraft version, please install forge  #1.在对应的minecraft版本添加此模组 注意，请安装forge
 2.Use copper to make cut  #使用铜矿制作切线器
   Make it like scissors   #像制作剪刀一样制作切线器
