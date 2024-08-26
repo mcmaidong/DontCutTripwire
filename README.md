@@ -7,7 +7,7 @@ The scissors property of the fabric's port is transferred to the forge, where yo
 
 If you want to support me, you can click the link below #如果你想支持我可以点下方链接
 
-爱发电  https://afdian.net/a/mcmaidong1013
+爱发电  https://ifdian.net/a/mcmaidong1013
 
 bilibili https://space.bilibili.com/1249397193?spm_id_from=333.1007.0.0
 
