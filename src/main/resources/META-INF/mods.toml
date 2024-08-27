@@ -1,0 +1,25 @@
+
+modLoader="javafml"
+loaderVersion="[51,)"
+license="All rights reserved"
+issueTrackerURL="https://github.com/mcmaidong/DontCutTripwire/issues"
+[[mods]]
+modId="dontcuttripwire"
+version="1.21-0.2.2-forge"
+displayName="Don't Cut Tripwire"
+authors="tiktok maidong(抖音麦动)"
+displayTest="IGNORE_SERVER_VERSION"
+description='''This module ports to forge the previous feature of fabric1.21.2, which allows scissors to change the properties of the mix line without destroying the mix line. Modules are available only on the server side'''
+[[dependencies.dontcuttripwire]]
+    modId="forge"
+    mandatory=true #mandatory
+    versionRange="[51,)" #mandatory
+    ordering="NONE"
+    side="SERVER"
+# Here's another dependency
+[[dependencies.dontcuttripwire]]
+    modId="minecraft"
+    mandatory=true
+    versionRange="[1.21,)"
+    ordering="NONE"
+    side="SERVER"
